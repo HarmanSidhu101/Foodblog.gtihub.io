@@ -1,0 +1,42 @@
+.card1{
+    display: inline-block;
+    margin: 30px;
+}
+.card1:first-child{
+    margin-left: 37px;
+}
+.card1 img{
+    height: 45vh;
+}
+.header{
+    width: 100%;
+}
+#links{
+    font-size: 18px;
+}
+#links li{
+    margin-left: 15px;
+}
+.video{
+    display: inline-block;
+    width: 200px;
+}
+footer{
+    box-sizing: border-box;
+    margin-top: 20px;
+    font-size: 18px;
+    background-color: rgb(86, 104, 75);
+}
+footer i{
+    color: black;
+}
+footer a{
+    color: black;
+}
+footer a:hover{
+    color: blanchedalmond;
+}
+#aboutsec{
+    width: 90%;
+    margin: auto;
+}
